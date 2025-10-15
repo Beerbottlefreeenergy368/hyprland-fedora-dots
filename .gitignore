@@ -7,8 +7,8 @@
 # ======================================
 # Window manager, terminal, viewer
 # ======================================
-!hypr/**
-!waybar/**
+!hypr/*
+!waybar/*
 !kitty/**
 !zathura/**
 
