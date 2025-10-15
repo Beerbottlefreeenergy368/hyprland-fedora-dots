@@ -4,63 +4,61 @@
 # Track my config directories
 !.gitignore
 
-!hypr/
-!waybar/
-!kitty/
-!zathura/
-!fish/
-!bash/
-!zsh/
-!spicetify/
-!Kvantum/
-!wallust/
-!gtk-3.0/
-!gtk-4.0/
-!qt5ct/
-!qt6ct/
-!swaync/
-!wlogout/
-!fastfetch/
-!btop/
-!neofetch/
-!rofi/
-!wofi/
-
-
 # ======================================
 # Window manager, terminal, viewer
 # ======================================
+!hypr/
 !hypr/**
+!waybar/
 !waybar/**
+!kitty/
 !kitty/**
+!zathura/
 !zathura/**
 
 # ======================================
 # Prompt and shell
 # ======================================
 !starship.toml
+!fish/
 !fish/**
+!bash/
 !bash/**
+!zsh/
 !zsh/**
 
 # ======================================
 # Theming and aesthetics
 # ======================================
+!spicetify/
 !spicetify/**
+!Kvantum/
 !Kvantum/**
+!wallust/
 !wallust/**
+!gtk-3.0/
 !gtk-3.0/**
+!gtk-4.0/
 !gtk-4.0/**
+!qt5ct/
 !qt5ct/**
+!qt6ct/
 !qt6ct/**
 
 # ======================================
 # Utilities and tools
 # ======================================
+!swaync/
 !swaync/**
+!wlogout/
 !wlogout/**
+!fastfetch/
 !fastfetch/**
+!btop/
 !btop/**
+!neofetch/
 !neofetch/**
+!rofi/
 !rofi/**
+!wofi/
 !wofi/**
