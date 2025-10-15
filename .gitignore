@@ -7,37 +7,37 @@
 # ======================================
 # Window manager, terminal, viewer
 # ======================================
-!hypr/
-!waybar/
-!kitty/
-!zathura/
+!hypr/**
+!waybar/**
+!kitty/**
+!zathura/**
 
 # ======================================
 # Prompt and shell
 # ======================================
 !starship.toml
-!fish/
-!bash/
-!zsh/
+!fish/**
+!bash/**
+!zsh/**
 
 # ======================================
 # Theming and aesthetics
 # ======================================
-!spicetify/
-!Kvantum/
-!wallust/
-!gtk-3.0/
-!gtk-4.0/
-!qt5ct/
-!qt6ct/
+!spicetify/**
+!Kvantum/**
+!wallust/**
+!gtk-3.0/**
+!gtk-4.0/**
+!qt5ct/**
+!qt6ct/**
 
 # ======================================
 # Utilities and tools
 # ======================================
-!swaync/
-!wlogout/
-!fastfetch/
-!btop/
-!neofetch/
-!rofi/
-!wofi/
+!swaync/**
+!wlogout/**
+!fastfetch/**
+!btop/**
+!neofetch/**
+!rofi/**
+!wofi/**
