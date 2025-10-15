@@ -4,11 +4,34 @@
 # Track my config directories
 !.gitignore
 
+!hypr/
+!waybar/
+!kitty/
+!zathura/
+!fish/
+!bash/
+!zsh/
+!spicetify/
+!Kvantum/
+!wallust/
+!gtk-3.0/
+!gtk-4.0/
+!qt5ct/
+!qt6ct/
+!swaync/
+!wlogout/
+!fastfetch/
+!btop/
+!neofetch/
+!rofi/
+!wofi/
+
+
 # ======================================
 # Window manager, terminal, viewer
 # ======================================
-!hypr/*
-!waybar/*
+!hypr/**
+!waybar/**
 !kitty/**
 !zathura/**
 
