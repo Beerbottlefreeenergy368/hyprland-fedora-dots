@@ -1,0 +1,38 @@
+# ---- 💫 https://github.com/JaKooLit 💫 ----  
+# Wallust template - colors-kitty  
+
+# 🖋 Text and Background Colors
+foreground         #FDF3E4  # Light beige, main text color  
+background         #1B1B1E  # Dark gray, terminal background  
+cursor             #FDF3E4  # Light beige, cursor color  
+
+# 🎨 Tab Colors  
+active_tab_foreground     #1B1B1E  # Dark gray, text color for active tab  
+active_tab_background     #FDF3E4  # Light beige, background for active tab  
+inactive_tab_foreground   #FDF3E4  # Light beige, text color for inactive tab  
+inactive_tab_background   #1B1B1E  # Dark gray, background for inactive tab  
+
+# 🔲 Border Colors  
+active_border_color   #FDF3E4  # Light beige, border when active  
+inactive_border_color #1B1B1E  # Dark gray, border when inactive  
+bell_border_color     #545668  # Grayish blue, border when bell rings  
+
+# 🎭 ANSI Colors (Used for syntax highlighting & CLI colors)
+color0      #424245  # Dark gray, Black equivalent  
+color1		#545668  # Muted blue-gray, Red equivalent  
+color2		#4A6F71  # Dark teal, Green equivalent  
+color3		#6BA6A3  # Soft cyan, Yellow equivalent  
+color4		#6BA6A3  # Soft cyan, Blue equivalent  
+color5		#7DAA79  # Muted green, Magenta equivalent  
+color6		#BAA686  # Warm beige, Cyan equivalent  
+color7		#F3E6D0  # Off-white, White equivalent  
+
+# 🎭 Bright ANSI Colors (Lighter versions for bold text)
+color8		#AAA192  # Light gray, Bright Black equivalent  
+color9		#70738B  # Muted purple-gray, Bright Red equivalent  
+color10		#639497  # Deep cyan, Bright Green equivalent  
+color11		#8FDDD9  # Vibrant turquoise, Bright Yellow equivalent  
+color12		#8FDDD9  # Vibrant turquoise, Bright Blue equivalent  
+color13		#A6E3A1  # Light green, Bright Magenta equivalent  
+color14		#F8DDB3  # Pastel yellow, Bright Cyan equivalent  
+color15		#F3E6D0  # Off-white, Bright White equivalent  
